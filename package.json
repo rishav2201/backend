@@ -1,0 +1,19 @@
+{
+  "name": "chai-and-backend",
+  "version": "1.0.0",
+  "description": "Chai And Backend",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Rishav",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
